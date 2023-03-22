@@ -3,23 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>522987428134-e07u38gel50aods9fp7cghk2mdvnetl5.apps.googleusercontent.com</string>
+	<string>468871559624-gp96j2kfjirrf02v1tj9kch3ov4d0ifm.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.522987428134-e07u38gel50aods9fp7cghk2mdvnetl5</string>
+	<string>com.googleusercontent.apps.468871559624-gp96j2kfjirrf02v1tj9kch3ov4d0ifm</string>
 	<key>ANDROID_CLIENT_ID</key>
-	<string>522987428134-11u97j5lvcgpkqkl5gcpiq2j0esp9tct.apps.googleusercontent.com</string>
+	<string>468871559624-03sctji3qhrmd3c9mnukk94939ih94dv.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
-	<string>AIzaSyBX8XjmaGyakRzXdsWR5Ro-MH4wgBIg4gs</string>
+	<string>AIzaSyDQLYartCKePCmfh22mAzg2pyo8j02Px1s</string>
 	<key>GCM_SENDER_ID</key>
-	<string>522987428134</string>
+	<string>468871559624</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.mighty.taxirider</string>
+	<string>com.juanprogramador.navirider</string>
 	<key>PROJECT_ID</key>
-	<string>taxi-booking-810bf</string>
+	<string>naviapp-ca400</string>
 	<key>STORAGE_BUCKET</key>
-	<string>taxi-booking-810bf.appspot.com</string>
+	<string>naviapp-ca400.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -31,6 +31,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:522987428134:ios:1fcb4eb13fb2904ee809e7</string>
+	<string>1:468871559624:ios:26dd62c4121f7b7c9ee8fd</string>
+	<key>DATABASE_URL</key>
+	<string>https://naviapp-ca400-default-rtdb.firebaseio.com</string>
 </dict>
 </plist>
