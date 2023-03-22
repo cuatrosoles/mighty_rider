@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "468871559624",
+    "firebase_url": "https://naviapp-ca400-default-rtdb.firebaseio.com",
+    "project_id": "naviapp-ca400",
+    "storage_bucket": "naviapp-ca400.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468871559624:android:4df1e3abbf2b99779ee8fd",
+        "android_client_info": {
+          "package_name": "com.juanprogramador.navi_conductor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468871559624-t7do2malt574qpunrdf328m5o8u4ll41.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.juanprogramador.navi_conductor",
+            "certificate_hash": "ce7cf01af073d14b5e1802fff30da72b8e740663"
+          }
+        },
+        {
+          "client_id": "468871559624-iqjhe9lfobv8bk8plheqni0964msae2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-y54q4fmUeNrHDn4i4RyUp33Plkxga5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468871559624-iqjhe9lfobv8bk8plheqni0964msae2m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "468871559624-f7011ng5f29k6nv3r1npbur0sudgracq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.juanprogramador.naviapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468871559624:android:b05b3e745d49ef7f9ee8fd",
+        "android_client_info": {
+          "package_name": "com.juanprogramador.navi_rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468871559624-eoqu1vg4lkmhrqop1lqbbdi36og2db1u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.juanprogramador.navi_rider",
+            "certificate_hash": "ce7cf01af073d14b5e1802fff30da72b8e740663"
+          }
+        },
+        {
+          "client_id": "468871559624-iqjhe9lfobv8bk8plheqni0964msae2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-y54q4fmUeNrHDn4i4RyUp33Plkxga5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468871559624-iqjhe9lfobv8bk8plheqni0964msae2m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "468871559624-f7011ng5f29k6nv3r1npbur0sudgracq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.juanprogramador.naviapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
